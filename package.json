@@ -1,0 +1,23 @@
+{
+  "name": "http-2-practics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazan-de-sejong/http-2-practics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazan-de-sejong/http-2-practics/issues"
+  },
+  "homepage": "https://github.com/kazan-de-sejong/http-2-practics#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "spdy": "^4.0.2"
+  }
+}
